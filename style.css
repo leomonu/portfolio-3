@@ -1,0 +1,39 @@
+/* *{
+    border:solid;
+     } */
+    h1{
+      color:red;    
+      }
+    h2{
+      color:#FFD700;
+      text-align: center;
+
+      }
+    p{
+      color:purple;
+      text-align: center;
+      font-size: larger;
+    }
+    .header{
+        background-color:cyan;
+        display:flex;
+        justify-content: space-between;
+    }
+    .description{
+        background-color:teal;
+    }
+    .grid{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        background-color:teal;
+
+    }
+    .footer{
+        display: flex;
+        justify-content: flex-end;
+        background-color:cyan;
+        }
+    body{
+        background-color: teal;
+    }
